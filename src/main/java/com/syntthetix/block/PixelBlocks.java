@@ -23,8 +23,8 @@ public class PixelBlocks {
 	public static Block purple;
 	public static Block blue;
 	public static Block pink;
-	public static Block lightGray;
-	public static Block darkGray;
+	public static Block lightgray;
+	public static Block darkgray;
 	public static Block green;
 	public static Block black;
 	public static Block white;
@@ -37,8 +37,8 @@ public class PixelBlocks {
 		purple = new purple(Material.cloth);
 		blue = new blue(Material.cloth);
 		pink = new pink(Material.cloth);
-		lightGray = new lightGray(Material.cloth);
-		darkGray = new darkGray(Material.cloth);
+		lightgray = new lightgray(Material.cloth);
+		darkgray = new darkgray(Material.cloth);
 		green = new green(Material.cloth);
 		black = new black(Material.cloth);
 		white = new white(Material.cloth);
@@ -52,8 +52,8 @@ public class PixelBlocks {
 		GameRegistry.registerBlock(purple, purple.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(blue, blue.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(pink, pink.getUnlocalizedName().substring(5));
-		GameRegistry.registerBlock(lightGray, lightGray.getUnlocalizedName().substring(5));
-		GameRegistry.registerBlock(darkGray, darkGray.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(lightgray, lightgray.getUnlocalizedName().substring(5));
+		GameRegistry.registerBlock(darkgray, darkgray.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(green, green.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(black, black.getUnlocalizedName().substring(5));
 		GameRegistry.registerBlock(white, white.getUnlocalizedName().substring(5));
@@ -67,8 +67,8 @@ public class PixelBlocks {
 		registerRender(purple);
 		registerRender(blue);
 		registerRender(pink);
-		registerRender(lightGray);
-		registerRender(darkGray);
+		registerRender(lightgray);
+		registerRender(darkgray);
 		registerRender(green);
 		registerRender(black);
 		registerRender(white);

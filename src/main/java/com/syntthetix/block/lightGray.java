@@ -5,11 +5,11 @@ import com.syntthetix.main.MainRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
-public class lightGray extends Block {
+public class lightgray extends Block {
 
-	public lightGray(Material materialIn) {
+	public lightgray(Material materialIn) {
 		super(materialIn);
-		this.setUnlocalizedName("lightGray");
+		this.setUnlocalizedName("lightgray");
 		this.setCreativeTab(MainRegistry.tabBlock);
 	}
 
