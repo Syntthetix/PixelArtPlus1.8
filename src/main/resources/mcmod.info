@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixel",
+  "name": "Pixel Art Plus Mod",
+  "description": "Adds solid color blocks to use for pixel art.",
+  "version": "${1.0}",
+  "mcversion": "${1.8}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syntthetix"],
+  "credits": "Kinectix for the great idea for this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
