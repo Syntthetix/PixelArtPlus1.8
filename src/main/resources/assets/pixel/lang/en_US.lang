@@ -10,3 +10,4 @@ tile.darkGray.name=Dark Gray Block
 tile.green.name=Green Block
 tile.black.name=Black Block
 tile.white.name=White Block
+itemGroup.tabBlock=Pixel Art Plus Blocks
